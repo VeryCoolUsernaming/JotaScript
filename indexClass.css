@@ -1,4 +1,5 @@
 p {  /* Selector */
     color: rgb(0, 255, 85);  /* Property: value */
     font-family: sans-serif;  /* Property: value */
+    line-height: 1.3em
 }
